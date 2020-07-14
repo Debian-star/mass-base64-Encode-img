@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mkdir -p /home/kali/Desktop/Base64ENCJpeg
 for file in /home/kali/Downloads/*.jpeg
 do
